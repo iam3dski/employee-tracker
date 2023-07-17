@@ -124,11 +124,9 @@
   ![NodeScreen](./assets/images/finished-product.png)
   
   ## Usage
-  
-  [Watch Video]()
 
-  > To open in a new tab, use CTRL + click (Windows) or CMD + click (MAC). Enjoy the music!
-  
+  [Watch Video](https://github.com/iam3dski/employee-tracker/assets/123909952/944aa33d-3e65-46c2-968a-6ea7534da821)
+
   ## License 
 
 

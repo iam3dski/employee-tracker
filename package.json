@@ -1,0 +1,17 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "This application helps manages a company's employee database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dylan Wednieski",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table3": "^0.6.3",
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.5.2"
+  }
+}

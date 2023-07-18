@@ -63,7 +63,7 @@
   ## Installation 
   * Clone the repository.
   ```
-    git clone git@github.com:erin-m-keller/keller-employee-tracker.git
+    git@github.com:iam3dski/employee-tracker.git
   ```
 
   * Install the dependencies.
